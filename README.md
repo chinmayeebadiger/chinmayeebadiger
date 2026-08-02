@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+I+wish+existed" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=building+things+i+wish+existed" alt="Typing SVG" />
   </a>
 </p>
+
+<!--
 **chinmayeebadiger/chinmayeebadiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
